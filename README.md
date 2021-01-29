@@ -1,4 +1,4 @@
-Grid-like and distance codes for representing word meaning in the human brain
+#title:Grid-like and distance codes for representing word meaning in the human brain
 Viganò, Rubino, Di Soccio, Buiatti, Piazza
 CIMeC, Center for Mind/Brain Sciences, University of Trento, Italy
 2021
